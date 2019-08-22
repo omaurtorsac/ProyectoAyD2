@@ -1,0 +1,12 @@
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\bin\Debug\NaturalFoodDesktop.exe.config
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\bin\Debug\NaturalFoodDesktop.exe
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\bin\Debug\NaturalFoodDesktop.pdb
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\bin\Debug\NaturalFoodDesktop.xml
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.vbprojAssemblyReference.cache
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.Form1.resources
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.Resources.resources
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.vbproj.GenerateResource.cache
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.vbproj.CoreCompileInputs.cache
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.exe
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.xml
+C:\Users\dotto\Documents\Visual Studio 2017\C#\Desktop\NaturalFoodDesktop\NaturalFoodDesktop\obj\Debug\NaturalFoodDesktop.pdb
